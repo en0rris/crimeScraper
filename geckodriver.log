@@ -1,0 +1,279 @@
+1634399713438	geckodriver	INFO	Listening on 127.0.0.1:33749
+1634399713864	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33895" "-no-remote" "-profile" "/tmp/rust_mozprofilegcQLq2"
+1634399724830	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegcQLq2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33895/devtools/browser/d2c143a4-3c04-40a0-9c66-66a65851c3cf
+1634399741918	Marionette	INFO	Listening on port 46417
+1634399742226	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+JavaScript warning: https://www.columbuspolice.org/Reports/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1634399760134	Marionette	INFO	Stopped listening on port 46417
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x140007,name=PBackgroundLSDatabase::Msg_RequestAllowToClose) Channel error: cannot send/recv
+
+1634401272716	geckodriver	INFO	Listening on 127.0.0.1:42589
+1634401273196	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38535" "-no-remote" "-profile" "/tmp/rust_mozprofile76rRF6"
+1634401278478	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile76rRF6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38535/devtools/browser/86726726-bbff-4bb2-aa96-28d8da0eb3cb
+1634401283901	Marionette	INFO	Listening on port 43523
+1634401284207	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+JavaScript warning: https://www.columbuspolice.org/Reports/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1634401308301	Marionette	INFO	Stopped listening on port 43523
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634401334362	geckodriver	INFO	Listening on 127.0.0.1:37193
+1634401334375	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58849" "-no-remote" "-profile" "/tmp/rust_mozprofile8Q0UCJ"
+1634401336771	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8Q0UCJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58849/devtools/browser/b4ea1f7a-3d59-4a6a-8b31-83b806652066
+1634401340363	Marionette	INFO	Listening on port 38285
+1634401340474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+JavaScript warning: https://www.columbuspolice.org/Reports/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1634401356443	Marionette	INFO	Stopped listening on port 38285
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634401367967	geckodriver	INFO	Listening on 127.0.0.1:45967
+1634401367973	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54067" "-no-remote" "-profile" "/tmp/rust_mozprofileuPsMk0"
+1634401370006	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuPsMk0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54067/devtools/browser/0245ab3a-02b4-4690-a494-fb34dcaf3be6
+1634401372691	Marionette	INFO	Listening on port 38355
+1634401372833	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+JavaScript warning: https://www.columbuspolice.org/Reports/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1634401381420	Marionette	INFO	Stopped listening on port 38355
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 8232, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-FLPiQZ/firefox-93.0+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634402736866	geckodriver	INFO	Listening on 127.0.0.1:49881
+1634402736882	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38595" "-no-remote" "-profile" "/tmp/rust_mozprofile9mYmSe"
+1634402739429	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9mYmSe/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38595/devtools/browser/7997cbf6-be80-4ba2-a474-c3a17dc6ea74
+1634402744505	Marionette	INFO	Listening on port 41537
+1634402744594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+JavaScript warning: https://www.columbuspolice.org/Reports/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.columbuspolice.org/Reports/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1634402811413	Marionette	INFO	Stopped listening on port 41537
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634402851933	geckodriver	INFO	Listening on 127.0.0.1:32881
+1634402852416	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46707" "-no-remote" "-profile" "/tmp/rust_mozprofilefm2Yhn"
+1634402854967	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefm2Yhn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46707/devtools/browser/bf23144d-1871-4025-bc89-6d56ef5c718c
+1634402859536	Marionette	INFO	Listening on port 40155
+1634402859571	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+JavaScript warning: https://www.columbuspolice.org/Reports/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1634402929839	Marionette	INFO	Stopped listening on port 40155
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634402953682	geckodriver	INFO	Listening on 127.0.0.1:52941
+1634402953694	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54687" "-no-remote" "-profile" "/tmp/rust_mozprofileCKyHIq"
+1634402956060	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCKyHIq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54687/devtools/browser/f7cd3c5a-ffcf-4f82-92b1-9310c27d7916
+1634402958941	Marionette	INFO	Listening on port 34963
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+1634402959602	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.columbuspolice.org/Reports/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635170428145	geckodriver	INFO	Listening on 127.0.0.1:47249
+1635170428614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34989" "-no-remote" "-profile" "/tmp/rust_mozprofilelnvjHF"
+1635170431279	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelnvjHF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34989/devtools/browser/04af9328-2f56-4968-9dff-58e903889c41
+1635170435055	Marionette	INFO	Listening on port 37733
+1635170435212	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+1635170736229	geckodriver	INFO	Listening on 127.0.0.1:42001
+1635170736734	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58315" "-no-remote" "-profile" "/tmp/rust_mozprofileStzrcD"
+1635170738704	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileStzrcD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58315/devtools/browser/2b00cc06-0deb-4f9e-97ee-74f74ea2dcf0
+1635170741558	Marionette	INFO	Listening on port 40329
+1635170741684	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635171074618	geckodriver	INFO	Listening on 127.0.0.1:34859
+1635171075100	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47479" "-no-remote" "-profile" "/tmp/rust_mozprofileB9gNJw"
+1635171087598	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileB9gNJw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47479/devtools/browser/a7af77cc-a5c6-471f-b1dc-fa5258a2000a
+1635171099342	Marionette	INFO	Listening on port 43333
+1635171099589	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+1635171111714	Marionette	INFO	Stopped listening on port 43333
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635171150265	geckodriver	INFO	Listening on 127.0.0.1:39701
+1635171150761	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58979" "-no-remote" "-profile" "/tmp/rust_mozprofilexyZMFI"
+1635171156137	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexyZMFI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58979/devtools/browser/d2dead9e-4abc-45a1-92c4-3e4173fb4135
+1635171163008	Marionette	INFO	Listening on port 46177
+1635171163058	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+1635171517336	geckodriver	INFO	Listening on 127.0.0.1:50717
+1635171517848	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40749" "-no-remote" "-profile" "/tmp/rust_mozprofile8LQWfW"
+1635171532788	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8LQWfW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40749/devtools/browser/48c0cccb-7275-485d-8591-e398f4efe8f7
+1635171540859	Marionette	INFO	Listening on port 37519
+1635171541095	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635171625246	geckodriver	INFO	Listening on 127.0.0.1:42269
+1635171625730	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57463" "-no-remote" "-profile" "/tmp/rust_mozprofile1EG0OP"
+1635171639690	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1EG0OP/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://activity-stream/lib/PlacesFeed.jsm, line 221: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsINavBookmarksService.removeObserver]
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Could not load engine amazondotcom@search.mozilla.org: Error: Unable to arm timer, the object has been finalized."
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2526\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2526\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2526\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 687))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+1635171665035	Marionette	INFO	Stopped listening on port 37519
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635171671760	Marionette	INFO	Stopped listening on port 46177
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635171675784	Marionette	INFO	Stopped listening on port 40329
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1635172068493	geckodriver	INFO	Listening on 127.0.0.1:43793
+1635172068990	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39961" "-no-remote" "-profile" "/tmp/rust_mozprofileC8brN0"
+1635172072048	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileC8brN0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39961/devtools/browser/98c0ae01-c6a3-4ea1-9d61-ae52c8ba9780
+1635172079170	Marionette	INFO	Listening on port 43179
+1635172080070	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+1635172107709	Marionette	INFO	Stopped listening on port 43179
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1635172113606	Marionette	INFO	Stopped listening on port 37733
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1635172624935	geckodriver	INFO	Listening on 127.0.0.1:50163
+1635172625440	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52115" "-no-remote" "-profile" "/tmp/rust_mozprofile8fICv0"
+1635172627454	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8fICv0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52115/devtools/browser/c2d937f7-83e3-4f87-af45-8d8437438b83
+1635172630404	Marionette	INFO	Listening on port 46129
+1635172630591	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635173819967	Marionette	INFO	Stopped listening on port 46129
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635173825685	geckodriver	INFO	Listening on 127.0.0.1:53129
+1635173826148	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35503" "-no-remote" "-profile" "/tmp/rust_mozprofilefh559E"
+1635173828194	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefh559E/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35503/devtools/browser/1533eea7-dd48-460e-9d3e-c12c45a2a158
+1635173830908	Marionette	INFO	Listening on port 43977
+1635173830984	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635175751630	Marionette	INFO	Stopped listening on port 43977
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1635176292304	geckodriver	INFO	Listening on 127.0.0.1:46921
+1635176292779	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58415" "-no-remote" "-profile" "/tmp/rust_mozprofileXqdTbR"
+1635176297280	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXqdTbR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58415/devtools/browser/64580a0b-f4a4-4b83-9cf5-2ba92fa1d577
+1635176300983	Marionette	INFO	Listening on port 44085
+1635176301176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635178505685	Marionette	INFO	Stopped listening on port 44085
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1635179287536	geckodriver	INFO	Listening on 127.0.0.1:36775
+1635179288017	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48373" "-no-remote" "-profile" "/tmp/rust_mozprofilejTQhhd"
+1635179292265	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejTQhhd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48373/devtools/browser/dc132f6f-c35b-4079-81fa-002af14cd4f2
+1635179297894	Marionette	INFO	Listening on port 39925
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+1635179298156	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635179376260	geckodriver	INFO	Listening on 127.0.0.1:39843
+1635179376784	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57535" "-no-remote" "-profile" "/tmp/rust_mozprofileDlv8lV"
+1635179381357	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDlv8lV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57535/devtools/browser/8a99dced-28a7-48b3-b3d6-83f21fc90fd7
+1635179388997	Marionette	INFO	Listening on port 34377
+1635179389156	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+1635179395229	Marionette	INFO	Stopped listening on port 34377
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635179399417	Marionette	INFO	Stopped listening on port 39925
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1635179800048	geckodriver	INFO	Listening on 127.0.0.1:44459
+1635179800553	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40395" "-no-remote" "-profile" "/tmp/rust_mozprofile8SyQ60"
+1635179803820	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8SyQ60/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40395/devtools/browser/34a3678c-01ed-4b36-9721-90ba197573d8
+1635179809422	Marionette	INFO	Listening on port 37007
+1635179809599	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+1635179814598	Marionette	INFO	Stopped listening on port 37007
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
